@@ -169,6 +169,9 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="MyTest120.cd">
+      <id>b525d26f-266c-41c5-aaac-2bde867cf2e7</id>
+    </Content>
     <Content Include="MyTest120.rxtmg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <id>bc5027cd-f7b9-4249-aa97-a9ccda4a40bb</id>
